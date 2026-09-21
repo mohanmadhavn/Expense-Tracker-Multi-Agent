@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+bcrypt
+PyJWT
+groq
+chromadb
+sentence-transformers
+presidio-analyzer
+presidio-anonymizer
+pydantic
